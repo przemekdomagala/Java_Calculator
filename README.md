@@ -1,8 +1,7 @@
 # Java Calculator
 
 ### This is my first java project, simple calculator with few operation options. I am planning to reduce length of the code in the future to make it clearer and more efficient.
-
 <p align="center">
-  <img src="![image](https://github.com/przemekdomagala/Java_Calculator/assets/115444497/aa630bfd-168b-4f59-abfa-ab58e8d36ecd)" />
+  <img src="https://imgur.com/a/fS4RwjM"/>
 </p>
 
