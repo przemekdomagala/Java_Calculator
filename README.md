@@ -6,6 +6,6 @@
 </p>
 
 ###### Improvement ideas:
-######## * I am planning to reduce length of the code in the future to make it clearer and more efficient.
+####### * I am planning to reduce length of the code in the future to make it clearer and more efficient.
 
 
