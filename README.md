@@ -1,4 +1,4 @@
-# Java Calculator
+Java Calculator
 
 ### This is my first java project, simple calculator with few operation options.
 
