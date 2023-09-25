@@ -7,6 +7,6 @@
 </p>
 
 ##### Improvement ideas:
-* Unordered sub-list
+* I am planning to reduce the length of the code in the future to make it clearer and more efficient.
 
 
